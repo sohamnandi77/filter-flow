@@ -6,7 +6,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Fliter FLow",
+  title: "Fliter Flow",
   description:
     "FilterFlow is a modern full-stack filtering system designed to streamline product searches with intuitive and dynamic filtering capabilities. Built to demonstrate web development fundamentals, this project showcases seamless integration of front-end and back-end technologies for an enhanced user experience.",
 };

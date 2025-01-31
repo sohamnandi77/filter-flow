@@ -1,4 +1,4 @@
-# [Filter FLow](https://github.com/sohamnandi77/filter-flow) &middot; [![Author Soham](https://img.shields.io/badge/Author-Soham-%3C%3E)](https://www.sohamnandi.com)
+# [Filter Flow](https://github.com/sohamnandi77/filter-flow) &middot; [![Author Soham](https://img.shields.io/badge/Author-Soham-%3C%3E)](https://www.sohamnandi.com)
 
 ## Overview
 
